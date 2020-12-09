@@ -233,7 +233,7 @@ class AutoSign(object):
         params = {
             'name': '',
             'activeId': activeId,
-            'address': '中国',
+            'address': '4号学生公寓',
             'uid': '',
             'clientip': clientip,
             'latitude': latitude,
@@ -257,7 +257,7 @@ class AutoSign(object):
         params = {
             'name': '',
             'activeId': activeId,
-            'address': '中国',
+            'address': '4hao',
             'uid': '',
             'clientip': clientip,
             'latitude': latitude,
